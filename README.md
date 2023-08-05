@@ -1,4 +1,20 @@
-# To Install and Run the Project
+# OpenD NFT Marketplace
+
+![NFT Marketplace Logo](/src/opend_assets/assets/logo.png) <!-- Replace with your logo -->
+
+Welcome to the NFT Marketplace project on the Internet Computer! This repository contains the code for a decentralized NFT Marketplace implemented using React for the frontend and Motoko for the backend. The project enables users to mint, list, and sell NFTs on the Internet Computer platform. This document will guide you through the project, its functionalities, and how to set it up for development or deployment.
+
+## Functionalities
+
+The NFT Marketplace project comes with the following functionalities:
+
+1. **Discover Page**: Users can view all the listed NFTs available for sale on this page. They can purchase desired NFTs by paying the specified TRON tokens, which will be transferred to the NFT owner.
+
+2. **Minter Page**: Users can create their own NFTs from local storage on this page. The minted NFTs will be visible on the "My NFTs" page.
+
+3. **My NFTs Page**: Users can view all the NFTs they own, whether bought from the Discover page or minted from their local storage. They can also choose to sell their NFTs by setting the desired price in TRON tokens.
+
+## To Install and Run the Project
 
 1. start local dfx
 
@@ -22,7 +38,7 @@ dfx deploy --argument='("CryptoDunks #123", principal ""<REPLACE WITH YOUR PRINC
 
 http://localhost:8080/
 
-# Creating NFT for Testing
+## Creating NFT for Testing
 
 1. Mint an NFT on the command line to get NFT into mapOfNFTs:
 
@@ -48,7 +64,7 @@ dfx canister id opend
 dfx canister call <REPLACE WITH PRINCIPAL FROM STEP1> transferOwnership '(principal "<REPLACE WITH OPEND CANISTER ID FROM STEP3>", true)'
 ```
 
-# Conneting to the Token Canister
+## Conneting to the Token Canister
 
 1. Copy over the token declarations folder
 
