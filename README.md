@@ -73,3 +73,25 @@ dfx canister call <REPLACE WITH PRINCIPAL FROM STEP1> transferOwnership '(princi
 ```
 const TRONPrincipal = Principal.fromText("<REPLACE WITH TOKEN CANISTER ID>");
 ```
+
+## Working Images
+
+### Home
+
+![Home Page](/src/opend_assets/images/home.png)
+
+### Discover NFTs
+
+![Discover Page](/src/opend_assets/images/discover.png)
+
+### My NFTs Page
+
+![MyNFTs Page](/src/opend_assets/images/mynfts.png)
+
+### Create NFT
+
+![Create Page](/src/opend_assets/images/create.png)
+
+### Non-Listed vs Listing vs Listed NFTs for sale
+
+![Listing](/src/opend_assets/images/listing.png)
