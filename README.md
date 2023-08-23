@@ -4,6 +4,21 @@
 
 Welcome to the NFT Marketplace project on the Internet Computer! This repository contains the code for a decentralized NFT Marketplace implemented using React for the frontend and Motoko for the backend. The project enables users to mint, list, and sell NFTs on the Internet Computer platform. This document will guide you through the project, its functionalities, and how to set it up for development or deployment.
 
+## Overview
+
+Step into a world of boundless possibilities with our feature-rich decentralized NFT Marketplace, meticulously constructed through the synergy of React frontend elegance and Motoko backend ingenuity. Within this visionary project, users are empowered to embark on a journey of creation, commerce, and ownership, as they seamlessly mint, list, and partake in the exchange of NFTs on the revolutionary Internet Computer platform.
+
+Picture a realm where artistic expression knows no bounds, where tokens of uniqueness and creativity take center stage. With the power to mint, users can weave their imaginative tapestries into digital form, resulting in NFTs that truly represent their essence. These digital treasures elegantly grace the marketplace, ready to be discovered, acquired, and celebrated.
+
+Navigate to the Discover Page, an exquisite gallery where a diverse array of NFTs beckon with their allure. Engage in the art of acquisition, as you acquire the tokens of your desires by seamlessly transacting TRON tokens. With every exchange, ownership shifts, and the story of each NFT continues to unfold.
+
+Venture to the Minter Page, a workshop of dreams, where users harness their creative energy to craft unique NFTs from their local storage. Here, digital canvases become vessels of expression, each stroke a testament to individuality. As these newly minted NFTs find their place on the "My NFTs" page, a testament to their creators' creativity emerges.
+
+The "My NFTs" Page, a personal gallery, becomes a testament to ownership and artistic legacy. All acquired NFTs, whether procured from the captivating Discover Page or born from the depths of creativity on the Minter Page, find a home here. And as owners gaze upon their collection, they possess not only tokens of digital artistry but also the potential for trade.
+
+Immersed within this ecosystem, transactions are seamless, powered by integrated TRON tokens. Buying and selling intertwine in a dance of commerce, and each interaction marks a step towards a more decentralized, creative future.
+
+Welcome to a universe where technology and art converge, where tokens hold the promise of uniqueness, and where our decentralized NFT Marketplace redefines how we create, collect, and connect within the Internet Computer's innovative landscape.
 ## Functionalities
 
 The NFT Marketplace project comes with the following functionalities:
